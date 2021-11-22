@@ -18,3 +18,33 @@ HaspMapBook - класс для создания словаря с назван�
 
 ![Иллюстрация к проекту](https://github.com/AlzurTrue/JavaTestWorks/blob/main/Shiftlab/img/basket.png)
 
+Запускаем программу, терминал выдаёт нам сообщение:
+
+
+![Иллюстрация к проекту](https://github.com/AlzurTrue/JavaTestWorks/blob/main/Shiftlab/img/Shift01.png)
+
+Вводим название товара из handbook.txt и его количество:
+
+
+![Иллюстрация к проекту](https://github.com/AlzurTrue/JavaTestWorks/blob/main/Shiftlab/img/Shift02.png)
+
+Получаем ответ:
+
+
+![Иллюстрация к проекту](https://github.com/AlzurTrue/JavaTestWorks/blob/main/Shiftlab/img/Shift07.png)
+
+Вводим ещё одно значение:
+
+
+![Иллюстрация к проекту](https://github.com/AlzurTrue/JavaTestWorks/blob/main/Shiftlab/img/Shift04.png)
+
+Заканчиваем работу вводом слова "конец" и получаем ответ:
+
+
+![Иллюстрация к проекту](https://github.com/AlzurTrue/JavaTestWorks/blob/main/Shiftlab/img/Shift05.png)
+
+Содержимое файла basket.txt после работы программы:
+
+
+![Иллюстрация к проекту](https://github.com/AlzurTrue/JavaTestWorks/blob/main/Shiftlab/img/Shift06.png)
+
