@@ -48,3 +48,8 @@ HaspMapBook - класс для создания словаря с назван�
 
 ![Иллюстрация к проекту](https://github.com/AlzurTrue/JavaTestWorks/blob/main/Shiftlab/img/Shift06.png)
 
+Пример обработки ошибок:
+
+
+![Иллюстрация к проекту](https://github.com/AlzurTrue/JavaTestWorks/blob/main/Shiftlab/img/Shift08.png)
+
